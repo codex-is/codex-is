@@ -18,20 +18,12 @@
 
 ### 🛠️ Technical Arsenal
 
-#### **Core Programming Languages**
+#### **Development Stack**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java" alt="Java" width="60" height="60"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="60" height="60"/>
-</p>
-<p align="center">
-  <span style="display: inline-block; width: 60px; text-align: center;"><strong>Java</strong></span>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="display: inline-block; width: 60px; text-align: center;"><strong>Python</strong></span>
-</p>
-
-#### **Backend & Framework Stack**
-<p align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="60" height="60"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=maven" alt="Maven" width="60" height="60"/>
@@ -39,11 +31,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="60" height="60"/>
 </p>
 <p align="center">
+  <span style="display: inline-block; width: 60px; text-align: center;"><strong>Java</strong></span>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span style="display: inline-block; width: 60px; text-align: center;"><strong>Python</strong></span>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span style="display: inline-block; width: 60px; text-align: center;"><strong>Spring</strong></span>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span style="display: inline-block; width: 60px; text-align: center;"><strong>Maven</strong></span>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="display: inline-block; width: 60px; text-align: center;"><strong>Spring Boot</strong></span>
+  <span style="display: inline-block; width: 70px; text-align: center;"><strong>Spring Boot</strong></span>
 </p>
 
 #### **Database Technologies**
@@ -96,22 +92,6 @@
   <span style="display: inline-block; width: 60px; text-align: center;"><strong>VS Code</strong></span>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span style="display: inline-block; width: 60px; text-align: center;"><strong>Postman</strong></span>
-</p>
-
-#### **Additional Technologies**
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Microservices" width="60" height="60"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="JPA" width="60" height="60"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" alt="JSON" width="60" height="60"/>
-</p>
-<p align="center">
-  <span style="display: inline-block; width: 80px; text-align: center;"><strong>Microservices</strong></span>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="display: inline-block; width: 60px; text-align: center;"><strong>JPA</strong></span>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="display: inline-block; width: 60px; text-align: center;"><strong>JSON</strong></span>
 </p>
 
 ---
