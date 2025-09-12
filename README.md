@@ -116,44 +116,16 @@
 
 ---
 
-**📚 Current Learning Focus**
-- **Microservices** Architecture
-- **Spring Boot** Implementation
-- **AWS Cloud Services** (Production)
-- **Data Structures & Algorithms** 
-
----
-
-### 📊 GitHub Analytics
-<br>
-<div align="center">
-  <h4>🔥 GitHub Performance Overview</h4>
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codex-is&theme=react&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="180" width="420">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=react&hide_border=true" alt="GitHub Streak" height="180" width="420">
-</div>
-<br><br>
-<div align="center">
- 
-</div>
 <br>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codex-is&theme=react-dark&hide_border=true&bg_color=ffffff00&color=0969da&line=0969da&point=e36209" alt="Contribution Graph" width="90%">
 </div>
 <br><br>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=codex-is&color=0969da&style=for-the-badge&label=Profile+Views" alt="Profile Views">
-</div>
----
 
 
+### 🌐 Ping Me!
 
-### 🌐 Let's Connect!
-
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/harsh-pardeshi-0507b9302" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -166,3 +138,5 @@
     <img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
+
