@@ -22,8 +22,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java" alt="Java" width="60" height="60"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="60" height="60"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
   <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="60" height="60"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=maven" alt="Maven" width="60" height="60"/>
@@ -32,8 +31,6 @@
 </p>
 <p align="center">
   <span style="display: inline-block; width: 60px; text-align: center;"><strong>Java</strong></span>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="display: inline-block; width: 60px; text-align: center;"><strong>Python</strong></span>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span style="display: inline-block; width: 60px; text-align: center;"><strong>Spring</strong></span>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -45,16 +42,20 @@
 #### **Database Technologies**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="60" height="60"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="60" height="60"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" height="60"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB Atlas" width="60" height="60"/>
 </p>
 <p align="center">
   <span style="display: inline-block; width: 60px; text-align: center;"><strong>MySQL</strong></span>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span style="display: inline-block; width: 60px; text-align: center;"><strong>PostgreSQL</strong></span>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span style="display: inline-block; width: 60px; text-align: center;"><strong>MongoDB</strong></span>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span style="display: inline-block; width: 80px; text-align: center;"><strong>MongoDB Atlas</strong></span>
 </p>
 
@@ -118,5 +119,3 @@
     <img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
-
