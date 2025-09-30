@@ -9,10 +9,9 @@
 
 ### 🚀 About Me
 
-- 🎓 **Computer Engineering Student** at SNJB's College of Engineering, SPPU (2023-2027)
+- 🎓 **Junior majoring in Computer Engineering** SPPU (2023-2027)
 - 💼 **Former Summer Intern** at Scaler School of Technology (YIIC 2nd Edition)
 - 🌱 Currently mastering **Java Backend Development** and **Microservices Architecture**
-- 💡 Passionate about **Clean Code, OOP Design, and Scalable Applications**
 
 ---
 
